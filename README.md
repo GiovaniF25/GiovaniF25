@@ -4,8 +4,6 @@
 
 📄 About me https://giovanif25.github.io/Giovani.github.io/
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-ferrari-9b1a50185/)
-
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniF25&show_icons=true&theme=radical)
 
 ### Knowledge:
