@@ -1,10 +1,10 @@
 ### Hi There! 
-### I'm Giovani, a technology enthusiast with strong problem-solving skills, I am always eager to learn and collaborate! 
+### I'm Giovani, a technology enthusiast with strong problem-solving skills, I'm always hungry to learn and collaborate! 
 
 
 📄 About me https://giovanif25.github.io/Giovani.github.io/
 
-  Contact me at e-mail: gio.ferrarimf@gmail.com
+📫 Contact me at e-mail: gio.ferrarimf@gmail.com
   
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniF25&show_icons=true&theme=radical)
 
