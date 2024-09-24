@@ -6,7 +6,12 @@
 
 📫 Contact me at e-mail: gio.ferrarimf@gmail.com
   
+## GitHub
+
+GitHub: [https://github.com/GiovaniF25](https://github.com/GiovaniF25)
+
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniF25&show_icons=true&theme=radical)
+
 
 ### Knowledge:
 <div style="display: inline_block"><br/>
