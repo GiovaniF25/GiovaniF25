@@ -2,7 +2,7 @@
 ### I'm Giovani, a technology enthusiast with strong problem-solving skills, I'm always hungry to learn and collaborate! 
 
 
-📄 About me [https://giovanif25.github.io/Giovani.github.io/](https://github.com/GiovaniF25/Giovani.github.io/blob/main/index.html)
+📄 About me https://giovanif25.github.io/Giovani.github.io/
 
 📫 Contact me at e-mail: gio.ferrarimf@gmail.com
   
