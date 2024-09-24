@@ -7,7 +7,7 @@
 📫 Contact me at e-mail: gio.ferrarimf@gmail.com
 
 
-![GitHub commits](https://github-readme-stats.vercel.app/api/commits-svg?username=GiovaniF25)
+
 
 
 
