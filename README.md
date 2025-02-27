@@ -18,8 +18,7 @@ s
   <img align="center" alt="Python"    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="R"    src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="Postgres"    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-(https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" />
-  <img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white" />
+
 
 
 
