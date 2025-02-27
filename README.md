@@ -8,7 +8,7 @@
 
 ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniF25&show_icons=true&theme=radical)
 
-s
+
 
 ### Knowledge:
 
