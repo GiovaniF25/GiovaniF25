@@ -1,8 +1,6 @@
 ### Hi There!
 ### I'm Giovani, a technology enthusiast with strong problem-solving skills, always eager to learn and collaborate!
 
-📄 About me: https://giovanif25.github.io/Giovani.github.io/
-
 📫 Contact me: gio.ferrarimf@gmail.com
 
 ### Knowledge:
